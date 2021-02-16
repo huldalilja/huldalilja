@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huldalilja
 - 🌱 Studying MSc at ETH, Zürich
-- 📫 [Hulda Lilja Hannesdóttir's website](https://www.huldalilja.com)
+- 📫 [huldalilja.com](https://www.huldalilja.com)
 
 <!---
 huldalilja/huldalilja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
