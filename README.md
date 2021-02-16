@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @huldalilja
-- 🌱 Studying MSc at ETH, Zürich
+- 👋 Hi, I’m Hulda Lilja Hannesdóttir (@huldalilja)
+- 🌱 Studying MSc in Computer Science at ETH, Zürich
 - 📫 [huldalilja.com](https://www.huldalilja.com)
 
 <!---
